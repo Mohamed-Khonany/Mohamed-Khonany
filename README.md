@@ -1,4 +1,3 @@
-::: {align="center"}
 ```{=html}
 <!--
 FIRE DRAGON BRAND ASSET
@@ -99,4 +98,3 @@ opportunities to build useful products.
 
 `<sub>`{=html}Designed with a black-and-gold visual direction inspired
 by the Fire Dragon brand.`</sub>`{=html}
-:::
