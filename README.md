@@ -1,12 +1,102 @@
-<h1 align="center">Hi 👋, I'm Mohamed Samir Khonany</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-khonany&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-khonany" /> </p>
+::: {align="center"}
+```{=html}
+<!--
+FIRE DRAGON BRAND ASSET
+Place the supplied logo image in this profile repository at:
+assets/fire-dragon-logo.png
+-->
+```
+`<img src="./assets/fire-dragon-logo.png" alt="Fire Dragon — Mohamed Khonany" width="180" />`{=html}
 
-- 📫 How to reach me **mkhonany777@gmail.com**
+# Mohamed Samir Khonany
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-khonany-5a6659244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-khonany-5a6659244/" height="30" width="40" /></a>
-</p>
+### Frontend & Mobile Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Building polished web experiences and production-ready mobile
+applications.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Khonany-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Khonany)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Fire%20Dragon-F28C00?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Mohamed-Khonany)
+:::About Me
+I'm a Frontend & Mobile Developer focused on creating responsive web
+interfaces and user-friendly mobile applications with React, Next.js,
+and React Native.
+
+I have professional experience working with a cross-functional team and
+contributing to mobile apps released on both the Google Play Store and
+Apple App Store. I enjoy turning ideas into reliable products,
+learning modern technologies, and paying attention to the details that
+make software feel intuitive.
+
+Through Fire Dragon, my personal brand, I explore the intersection
+of technology, creativity, and thoughtful digital experiences.
+- Web: React.js, Next.js, JavaScript, TypeScript, responsive UI
+- Mobile: React Native, state management, API integration, push
+  notifications
+- Collaboration: Git, reusable components, cross-functional
+  teamwork
+- Currently exploring: Three.js, React Three Fiber, and immersive
+  web experiences
+- Open to: Frontend and React Native opportunities
+Tech Stack
+::: {align="center"}
+### Frontend
+
+`<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend technologies" />`{=html}
+
+### Mobile & State
+
+`<img src="https://skillicons.dev/icons?i=react,redux,firebase" alt="Mobile and state technologies" />`{=html}
+
+### Tools & Foundations
+
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java,cpp" alt="Tools and programming foundations" />`{=html}
+:::Also experienced with: React Query / TanStack Query, NativeBase,
+NativeWind, Firebase Authentication and Messaging, Notifee, SignalR,
+i18next, RTL support, REST API integration, deep linking, GSAP, Framer
+Motion, and SVG animation.
+Featured Work
+Studbook
+A mobile application I contributed to professionally, released on
+Android and iOS. My work has involved React Native, Redux, React Query,
+Firebase, Git, and collaboration with a cross-functional team.
+- Platforms: Android · iOS
+- Focus: Mobile development, API integration, app features, and
+  notifications
+- Links: Add the public store links here when ready.
+Buildup
+A mobile application I contributed to professionally, released on
+Android and iOS.
+- Platforms: Android · iOS
+- Focus: React Native development and team-based product delivery
+- Links: Add the public store links here when ready.
+Fire Dragon --- Personal Brand & Portfolio
+My personal brand for building websites, applications, and software
+experiences that make technology more accessible. The visual identity
+combines the initials M, S, and K with a dragon-inspired mark.
+- Focus: Next.js, GSAP, visual storytelling, interaction design
+- Design direction: Dark surfaces, gold accents, and purposeful
+  motion
+- Portfolio: Add your live portfolio URL here when published.
+Replace or expand these entries with public repositories and case
+studies you are permitted to share. Do not link private company code.
+
+GitHub Activity
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Khonany&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F28C00&icon_color=F28C00" alt="GitHub statistics" />`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Khonany&layout=compact&hide_border=true&theme=transparent&title_color=F28C00" alt="Most used languages" />`{=html}
+
+`<img src="https://streak-stats.demolab.com?user=Mohamed-Khonany&hide_border=true&theme=transparent&ring=F28C00&fire=F28C00&currStreakLabel=F28C00" alt="GitHub contribution streak" />`{=html}
+:::Let's Connect
+I'm always happy to connect with developers, exchange ideas, and explore
+opportunities to build useful products.
+::: {align="center"}
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Khonany)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+:::::: {align="center"}
+**Fire Dragon** · *Turning imagination into reality.*
+
+`<sub>`{=html}Designed with a black-and-gold visual direction inspired
+by the Fire Dragon brand.`</sub>`{=html}
+:::
