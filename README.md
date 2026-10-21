@@ -1,6 +1,6 @@
 <img src="./assets/fire-dragon-logo.png" alt="Fire Dragon — Mohamed Khonany" width="180" />
 
-# Mohamed Samir Khonany
+# Hi 👋, I'm Mohamed Samir Khonany
 
 ### Frontend & Mobile Developer
 
