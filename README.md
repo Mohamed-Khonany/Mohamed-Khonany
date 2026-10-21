@@ -10,6 +10,7 @@ applications.**
 [![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Khonany-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Khonany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Fire%20Dragon-F28C00?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Mohamed-Khonany)
+
 :::About Me
 I'm a Frontend & Mobile Developer focused on creating responsive web
 interfaces and user-friendly mobile applications with React, Next.js,
@@ -32,18 +33,19 @@ of technology, creativity, and thoughtful digital experiences.
   web experiences
 - Open to: Frontend and React Native opportunities
 Tech Stack
-::: {align="center"}
+
 ### Frontend
 
-`<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend technologies" />`{=html}
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend technologies" />
 
 ### Mobile & State
 
-`<img src="https://skillicons.dev/icons?i=react,redux,firebase" alt="Mobile and state technologies" />`{=html}
+<img src="https://skillicons.dev/icons?i=react,redux,firebase" alt="Mobile and state technologies" />
 
 ### Tools & Foundations
 
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java,cpp" alt="Tools and programming foundations" />`{=html}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java,cpp" alt="Tools and programming foundations" />
+
 :::Also experienced with: React Query / TanStack Query, NativeBase,
 NativeWind, Firebase Authentication and Messaging, Notifee, SignalR,
 i18next, RTL support, REST API integration, deep linking, GSAP, Framer
