@@ -4,14 +4,14 @@
 
 ### Frontend & Mobile Developer
 
-**Building polished web experiences and production-ready mobile
-applications.**
+** Building polished web experiences and production-ready mobile
+applications. **
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Khonany-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Khonany)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/mohamed-khonany-5a6659244/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Fire%20Dragon-F28C00?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Mohamed-Khonany)
 
-:::About Me
+### About Me
 I'm a Frontend & Mobile Developer focused on creating responsive web
 interfaces and user-friendly mobile applications with React, Next.js,
 and React Native.
@@ -46,7 +46,7 @@ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java,cpp" alt="Tools and programming foundations" />
 
-:::Also experienced with: React Query / TanStack Query, NativeBase,
+** Also experienced with: React Query / TanStack Query, NativeBase,
 NativeWind, Firebase Authentication and Messaging, Notifee, SignalR,
 i18next, RTL support, REST API integration, deep linking, GSAP, Framer
 Motion, and SVG animation.
@@ -74,14 +74,14 @@ combines the initials M, S, and K with a dragon-inspired mark.
   motion
 - Portfolio: Add your live portfolio URL here when published.
 Replace or expand these entries with public repositories and case
-studies you are permitted to share. Do not link private company code.
+studies you are permitted to share. Do not link private company code. **
 
-GitHub Activity
+## GitHub Activity
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Khonany&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F28C00&icon_color=F28C00" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Khonany&layout=compact&hide_border=true&theme=transparent&title_color=F28C00" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=Mohamed-Khonany&hide_border=true&theme=transparent&ring=F28C00&fire=F28C00&currStreakLabel=F28C00" alt="GitHub contribution streak" />{=html}
+<img src="https://streak-stats.demolab.com?user=Mohamed-Khonany&hide_border=true&theme=transparent&ring=F28C00&fire=F28C00&currStreakLabel=F28C00" alt="GitHub contribution streak" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Khonany)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khonany-5a6659244/)
 
