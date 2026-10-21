@@ -1,12 +1,4 @@
-::: {align="center"}
-```{=html}
-<!--
-FIRE DRAGON BRAND ASSET
-Place the supplied logo image in this profile repository at:
-assets/fire-dragon-logo.png
--->
-```
-<img src="./assets/fire-dragon-logo.png" alt="Fire Dragon — Mohamed Khonany" width="180" />{=html}
+<img src="./assets/fire-dragon-logo.png" alt="Fire Dragon — Mohamed Khonany" width="180" />
 
 # Mohamed Samir Khonany
 
@@ -83,20 +75,11 @@ Replace or expand these entries with public repositories and case
 studies you are permitted to share. Do not link private company code.
 
 GitHub Activity
-::: {align="center"}
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Khonany&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F28C00&icon_color=F28C00" alt="GitHub statistics" />{=html}
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Khonany&layout=compact&hide_border=true&theme=transparent&title_color=F28C00" alt="Most used languages" />{=html}
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Khonany&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=F28C00&icon_color=F28C00" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Khonany&layout=compact&hide_border=true&theme=transparent&title_color=F28C00" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=Mohamed-Khonany&hide_border=true&theme=transparent&ring=F28C00&fire=F28C00&currStreakLabel=F28C00" alt="GitHub contribution streak" />{=html}
-:::Let's Connect
-I'm always happy to connect with developers, exchange ideas, and explore
-opportunities to build useful products.
-::: {align="center"}
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Khonany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-:::::: {align="center"}
-**Fire Dragon** · *Turning imagination into reality.*
 
-<sub>{=html}Designed with a black-and-gold visual direction inspired
-by the Fire Dragon brand.</sub>{=html}
-:::
