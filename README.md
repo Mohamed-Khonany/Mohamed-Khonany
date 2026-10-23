@@ -5,10 +5,16 @@
     width="100%"
   />
 
-<div data-importer="profile-views" align="left">
-  <h1>Hi 👋, I'm Mohamed Samir Khonany</h1>
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Mohamed-Khonany?theme=minecraft&padding=3&offset=10&scale=0.5&align=top&pixelated=1&darkmode=0"  />
-</div>
+###
+
+<img data-importer="profile-views" align="right" src="https://count.getloli.com/@:Mohamed-Khonany?theme=minecraft&padding=3&offset=10&scale=0.4&align=center&pixelated=1&darkmode=0"  />
+
+###
+
+<h1 data-importer="text" align="left">Hi 👋, I'm Mohamed Samir Khonany</h1>
+
+###
+
   <h3>Frontend & Mobile Developer</h3>
 
   <p>
