@@ -1,8 +1,8 @@
 <div align="center">
   <img
-    src="./assets/fire-dragon-logo.png"
+    src="./assets/Mylogo(Fire).png"
     alt="Fire Dragon Logo"
-    width="180"
+    width="100%"
   />
 
   <h1>Hi 👋, I'm Mohamed Samir Khonany</h1>
