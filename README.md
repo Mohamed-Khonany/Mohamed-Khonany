@@ -5,7 +5,10 @@
     width="100%"
   />
 
+<div data-importer="profile-views" align="left">
   <h1>Hi 👋, I'm Mohamed Samir Khonany</h1>
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Mohamed-Khonany?theme=minecraft&padding=3&offset=10&scale=0.5&align=top&pixelated=1&darkmode=0"  />
+</div>
   <h3>Frontend & Mobile Developer</h3>
 
   <p>
@@ -59,7 +62,18 @@ of technology, creativity, and thoughtful digital experiences.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java,cpp" alt="Tools and programming foundations" />
 </div>
 
+### Back-End
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+</div>
 
+###
 
 Also experienced with: React Query / TanStack Query, NativeBase,
 NativeWind, Firebase Authentication and Messaging, Notifee, SignalR,
@@ -89,8 +103,17 @@ combines the initials M, S, and K with a dragon-inspired mark.
   motion
 - Portfolio: Add your live portfolio URL here when published.
 Replace or expand these entries with public repositories and case
-studies you are permitted to share. Do not link private company code. 
+studies you are permitted to share. Do not link private company code.
 
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed-Khonany/Mohamed-Khonany/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed-Khonany/Mohamed-Khonany/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamed-Khonany/Mohamed-Khonany/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhonany777@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Khonany)
