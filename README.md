@@ -24,9 +24,9 @@
     production-ready mobile applications.
   </p>
   
-[![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Khonany-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Khonany)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohamed--Khonany-000000?style=for-the-badge&logo=github)](https://github.com/Mohamed-Khonany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/mohamed-khonany-5a6659244/))
-[![Portfolio](https://img.shields.io/badge/GitHub-Mohamed--Khonany-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Khonany)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mohamed--Khonany-ff5a00?style=for-the-badge&logo=dragon)](https://mohamed-khonany-portfolio-fire-dragon.vercel.app/)
   </div>
 
 
@@ -118,5 +118,5 @@ studies you are permitted to share. Do not link private company code.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkhonany777@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Khonany)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khonany-5a6659244/)
-[![Portfolio](https://img.shields.io/badge/GitHub-Mohamed--Khonany-181717?style=for-the-badge&logo=github)](https://github.com/Mohamed-Khonany)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5a00?style=for-the-badge&logo=user&Color=white)](https://mohamed-khonany-portfolio-fire-dragon.vercel.app/)
 
